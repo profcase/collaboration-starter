@@ -1,8 +1,10 @@
 # collaboration-starter
 
+> Use this to create course-section repos such as 18f-06-collaboration. Change the url under Clone Repository below. Add collaborators to the section-specific repo.
+
 Shared repository to practice collaboration
 
-> Use this to create course-section repos such as 18f-06-collaboration. Change the url under Clone Repository below. Add collaborators to the section-specific repo.
+Built from <https://github.com/profcase/collaboration-starter>
 
 ## Overview
 
@@ -19,7 +21,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## Clone Repository
 
-1. Open Browser to https://github.com/profcase/collaboration-starter.
+1. Open Browser to <https://github.com/profcase/collaboration-starter>.
 2. Select the URL and use CTRL-C to copy to clipboard.
 3. Right-click in your course folder and select Git Clone...
 4. URL should auto-copy to URL, if not, paste it to URL field.
