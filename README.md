@@ -17,7 +17,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## Open Course Folder
 
-1. Open your course folder in Widnows Explorer. Clone the repository into this folder following the steps below.
+1. Open your course folder in Windows Explorer. Clone the repository into this folder following the steps below.
 
 ## Clone Repository
 
